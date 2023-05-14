@@ -23,7 +23,7 @@ The Side Scan Sonar Segmentation project is developed as a deep learning solutio
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/side-scan-sonar-segmentation.git
+git clone https://github.com/Ilia-Abolhasani/side-scan-sonar-segmentation.git
 cd side-scan-sonar-segmentation
 pip install -r requirements.txt
 ```
